@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow — Personal To-Do Manager",
+  "description": "A clean, fast single-page To-Do list application with full CRUD operations, filtering, sorting, due dates, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
